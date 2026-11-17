@@ -3,6 +3,9 @@
 A surrealist, retro-futuristic portfolio.
 ---
 
+<img width="1630" height="1072" alt="Ekran görüntüsü 2026-11-18 011250" src="https://github.com/user-attachments/assets/249acfea-7384-4b7b-af09-872c2523d235" />
+
+
 ## ⚡ Aesthetic & Architecture
 
 * **Visual Vibe:** CRT scanlines, low-framerate chromatic noise, and a simulated terminal window over a procedural dark canvas.
